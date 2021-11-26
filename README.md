@@ -57,9 +57,9 @@ Pyber operates in 120 cities out of which 66 cities are  Urban and 36 cities are
  
 * Pyber needs to make fares in rural areas more afforable.
 The average fare for rides in the rural cities is about $34.62. But for urban cities was $24.53 and $30.97 in suburban cities, respectively. The rides in rural area cost 11$ and 5$ more than urban and suburban cities. No wonder the number of rides in rural areas is just 7% of that of urban areas. If we can bring the average fare down by even 5 dollars, the number of rides should increase considerably because though the population in rural areas is less but so is the connectivity by buses/trains within the city or to/from urban cities. By advertising on bus stops/train stations about the afforable PyBer_share where a single cab can take multiple people at a much cheaper rate for daily commute. The revenue will increase manyfolds.
-![ride_fare_data](?raw=true)
+![Average_Fare](?raw=true)
 
 * Pyber needs more drivers in rural area.
  The fare per driver is $55.49 in rural areas while it is $39.50 for suburban and $16.57 for urban areas. The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. This creates higher demand and leads to higher fares per driver. Rural areas have high population of seasonal workers as many of them are farmers or work in tourism sector as many rural areas also serve as tourist places. If these people can be roped in as part time drivers then the driver shortage can be addressed.
-![driver_count_data](?raw=true)
+![Total_drivers](?raw=true)
 
