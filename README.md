@@ -47,22 +47,19 @@ The above results are summarized in the Pyber Summary Dataframe below:
 ![pyber_summary_df](?raw=true)
 
 ## Summary:
-
+### We can see from the data from 2019-01-01 through 2019-04-28 that Urban cities are the workhorses that generate most of the revenue while rural cities do not generate enough. During peak season urban cities generate close to 2,500$ per week but the rural cities rarely make upto 500$. Urban cities maintain close to 2,000$ per week revenue. While rural cities don't even maintain a 200$ per week. This gap needs to be bridged in order for Pyber to become the most preffered ride share app. 
 ![PyBer_fare_summary](?raw=true)
-* We can see from the data from 2019-01-01 through 2019-04-28 that Urban cities are the workhorse and generate the max revenue while rural cities do not generate enough. During peak season urban cities generate close to 2,500$ per week but the rural cities rarely make upto 500$. Urban cities maintain close to 2,000$ per week revenue. While rural cities don't even maintain a 200$ per week. This gap needs to be bridged in order for Pyber to become the most preffered ride share app. 
 
-The disparity between the fares vs driver count and number of rides can be clearly seen in the figure below:
-[Pyber_ride_sharing_data](?raw=true)
-Here are some suggestions:
+The disparity between the fares vs driver count and number of rides are discussed below. Alongwith some suggestions to generate more revenue from the underserved rural cities.
 
 * Pyber needs to operate more rides in rural areas. 
-Pyber operates in 120 cities out of which 66 cities are  Urban and 36 cities are suburban, and 18 cities are rural. So Pyber has a strong presence in urban cities i.e. (55%) but almost equal presence in suburban/rural cities that is (45%). But almost 63% of the revenue comes from urban cities while rural which comprises 15% of the cities brings only 7% revenue approx. We need to tap the underserved rural market to generate higher revenues for Pyber.![type_of_city_by_fare](?raw=true)
-
+Pyber operates in 120 cities out of which 66 cities are  Urban and 36 cities are suburban, and 18 cities are rural. So Pyber has a strong presence in urban cities i.e. (55%) but almost equal presence in suburban/rural cities that is (45%). But the number of rides in rural areas was 125 while the numer of rides for suburban areas was 625 and urban areas was 1650. Likewise almost 63% of the revenue comes from urban cities while rural which comprises 15% of the cities brings only 7% revenue approx. We need to tap the underserved rural market to generate higher revenues for Pyber.![type_of_city_by_fare](?raw=true)
+ 
 * Pyber needs to make fares in rural areas more afforable.
-The average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. The number of rides in rural areas is just 7% of that of urban areas. If we can bring the average fare down by even 5 dollars, the number of rides should increase considerably because though the population in rural areas is less but so is the connectivity by buses/trains within the city or to/from urban cities. By advertising on bus stops/train stations about the afforable PyBer_share where a single cab can take multiple people at a much cheaper rate for daily commute. The revenue will increase manyfolds.
+The average fare for rides in the rural cities is about $34.62. But for urban cities was $24.53 and $30.97 in suburban cities, respectively. The rides in rural area cost 11$ and 5$ more than urban and suburban cities. No wonder the number of rides in rural areas is just 7% of that of urban areas. If we can bring the average fare down by even 5 dollars, the number of rides should increase considerably because though the population in rural areas is less but so is the connectivity by buses/trains within the city or to/from urban cities. By advertising on bus stops/train stations about the afforable PyBer_share where a single cab can take multiple people at a much cheaper rate for daily commute. The revenue will increase manyfolds.
 ![ride_fare_data](?raw=true)
 
 * Pyber needs more drivers in rural area.
-The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. This creates higher demand and leads to higher fares. Rural areas have high population of seasonal workers as many of them are farmers or work in tourism sector as many rural areas also serve as tourist places. If these people can be roped in as part time drivers then the driver shortage can be addressed.
+ The fare per driver is $55.49 in rural areas while it is $39.50 for suburban and $16.57 for urban areas. The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. This creates higher demand and leads to higher fares per driver. Rural areas have high population of seasonal workers as many of them are farmers or work in tourism sector as many rural areas also serve as tourist places. If these people can be roped in as part time drivers then the driver shortage can be addressed.
 ![driver_count_data](?raw=true)
 
